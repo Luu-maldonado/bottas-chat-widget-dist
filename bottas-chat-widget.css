@@ -221,10 +221,10 @@
 
 .chatWindow {
   position: fixed;
-  bottom: 70px;
+  bottom: 60px;
   right: 10px;
-  width: 260px;
-  height: 400px;
+  width: 240px;
+  height: 380px;
   background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
   border-radius: 15px;
   box-shadow: 0 5px 20px var(--shadow-color);
