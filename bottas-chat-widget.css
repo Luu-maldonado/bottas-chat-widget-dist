@@ -223,8 +223,8 @@
   position: fixed;
   bottom: 90px;
   right: 10px;
-  width: 340px;
-  height: 480px;
+  width: 330px;
+  height: 470px;
   background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
   border-radius: 15px;
   box-shadow: 0 5px 20px var(--shadow-color);
