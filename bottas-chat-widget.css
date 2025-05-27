@@ -224,7 +224,7 @@
   bottom: 90px;
   right: 10px;
   width: 320px;
-  height: 455px;
+  height: 450px;
   background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
   border-radius: 15px;
   box-shadow: 0 5px 20px var(--shadow-color);
