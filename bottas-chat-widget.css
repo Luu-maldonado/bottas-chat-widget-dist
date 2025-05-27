@@ -221,10 +221,10 @@
 
 .chatWindow {
   position: fixed;
-  bottom: 90px;
-  right: 20px;
-  width: 350px;
-  height: 500px;
+  bottom: 80px;
+  right: 15px;
+  width: 300px;
+  height: 450px;
   background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
   border-radius: 15px;
   box-shadow: 0 5px 20px var(--shadow-color);
@@ -298,12 +298,12 @@
 @media (max-width: 480px) {
   .chatWindow {
     width: calc(100vw - 40px);
-    right: 10px;
-    bottom: 80px;
+    right: 8px;
+    bottom: 78px;
   }
 
   .chatWidgetContainer {
-    right: 10px;
-    bottom: 10px;
+    right: 8px;
+    bottom: 8px;
   }
 }
